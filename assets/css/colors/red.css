@@ -1,0 +1,83 @@
+/* Theme Name: Best - Responsive Coming soon template
+   Author: bestdesignenvato_12
+   Author e-mail: arvindakumar.kumar05@gmail.com
+   Version: 1.0.0
+   Created:Feb 2017
+   File Description: color CSS file of the template
+*/
+/***** background ************/
+header.sticky .op-nav a::before, header.sticky .op-nav a::after,
+.banner-15,
+.padding-equal.about .cta-button a,
+.blue-bg-img,
+.owl-controls .owl-pagination .owl-page span,
+.about .box hr,
+.line-section .large-line, 
+.line-section .small-line,
+.pricing .highlighted[class^="col-"] .wrapper::after,
+.sec-contact form button,
+footer ,
+section.bredcurms,
+.widget-title::before,
+.noo-blog-item .entry-content .read-more,
+#comments #respond .comment-reply-title::before,
+.form-submit input[type="submit"],
+header.sticky .navbar-toggle span,
+.sec-team .wrapper a i:hover{
+  background: #ff4136 none repeat scroll 0 0;
+}
+.noo-blog-item .entry-content .read-more,
+.skills .c100 .bar, .skills .c100 .fill{
+  border-color: #ff4136;
+}
+.padding-equal.about .cta-button a:hover{
+	background: #ff4136 !important;
+}
+/**** color *******/
+header.sticky a,
+header.sticky .op-nav a:hover,
+.noo-blog a:hover,
+.noo-sidebar-wrap a:hover,
+.equal-height-column p a,
+.about .box .overview-img,
+.skills .c100:hover > span, .skills .c100 span,
+.pricing [class^="col-"] .wrapper h3, 
+.pricing [class^="col-"] .wrapper h1,
+.pricing [class^="col-"] .wrapper .pricing-img,
+.pricing .highlighted[class^="col-"] .wrapper h3, 
+.pricing .highlighted[class^="col-"] .wrapper h1,
+.pricing .highlighted[class^="col-"] .wrapper .pricing-img,
+.pricing [class^="col-"] .wrapper a,
+.pricing .highlighted[class^="col-"] .wrapper a,
+a,
+.sec-contact .contact .contact-info h5,
+footer .subscription button{
+	color: #ff4136;
+}
+
+.pricing [class^="col-"] .wrapper a {
+  background-color: #ff4136;
+  background-image: -moz-linear-gradient(0deg, #ff4136 0%, #ff4136 100%);
+}
+
+
+
+
+.banner-15 a.btn.pink:hover{
+	border-color: #9F342E;
+}
+.page-scroll.back-top{
+	background-color: #EA2C21;
+}
+.secondary-footer {
+  background: #eb3c31 none repeat scroll 0 0;
+}
+
+
+.gradients {
+  background-image: -moz-linear-gradient(1deg, #cf1106 0%, #ff4c41 100%) !important;
+  background-image: -o-linear-gradient(1deg, #cf1106 0%, #ff4c41 100%) !important;
+  background-image: -webkit-linear-gradient(1deg, #cf1106 0%, #ff4c41 100%) !important;
+  background-image: -ms-linear-gradient(1deg, #cf1106 0%, #ff4c41 100%) !important;
+  /*background-image: linear-gradient(0deg, #cf1106 0%, #ff4c41 100%) !important;*/
+}
